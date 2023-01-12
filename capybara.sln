@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "capybara", "capybara.csproj", "{DF036392-0E4E-4390-AA2F-5614014F4402}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "capybara 2", "..\capybara 2\capybara 2.csproj", "{D07771C3-B9BB-470D-9F8C-EB7450BBDAF0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DF036392-0E4E-4390-AA2F-5614014F4402}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF036392-0E4E-4390-AA2F-5614014F4402}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF036392-0E4E-4390-AA2F-5614014F4402}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D07771C3-B9BB-470D-9F8C-EB7450BBDAF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D07771C3-B9BB-470D-9F8C-EB7450BBDAF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D07771C3-B9BB-470D-9F8C-EB7450BBDAF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D07771C3-B9BB-470D-9F8C-EB7450BBDAF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
